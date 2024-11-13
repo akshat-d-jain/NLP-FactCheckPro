@@ -1,5 +1,5 @@
-```markdown
-# Fact Check Pro: Multi-Language and Multi-Domain Factuality Detection Using BERT-Based Similarity Analysis
+
+***Fact Check Pro: Multi-Language and Multi-Domain Factuality Detection Using BERT-Based Similarity Analysis***
 
 **Authors:** Shreyasee Shinde, Sneh Patel, Akshat Jain, Ojas Bodke
 
