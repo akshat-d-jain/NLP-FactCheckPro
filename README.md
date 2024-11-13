@@ -1,3 +1,4 @@
+```markdown
 # Fact Check Pro: Multi-Language and Multi-Domain Factuality Detection Using BERT-Based Similarity Analysis
 
 **Authors:** Shreyasee Shinde, Sneh Patel, Akshat Jain, Ojas Bodke
@@ -65,20 +66,25 @@ Fact Check Pro achieves reliable factuality detection in various domains, improv
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/FactCheckPro.git
+   ```
 2. Install the required packages:
-   '''bash
-pip install -r requirements.txt
-3.Usage
-To run Fact Check Pro, use the following command:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
- '''bash
+## Usage
+To run Fact Check Pro, use the following command:
+```bash
 python fact_check_pro.py --input "path/to/claims.json" --output "path/to/results.json"
-Arguments
---input : Path to the input file containing claims.
---output : Path to save the results.
-Contributing
+```
+
+### Arguments
+- `--input` : Path to the input file containing claims.
+- `--output` : Path to save the results.
+
+## Contributing
 We welcome contributions! Please fork this repository and create a pull request for any new features, bug fixes, or improvements. Make sure your code follows the project's coding standards.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+```
