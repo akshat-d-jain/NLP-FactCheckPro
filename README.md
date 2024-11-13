@@ -65,15 +65,13 @@ Fact Check Pro achieves reliable factuality detection in various domains, improv
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/FactCheckPro.git
-Install the required packages:
-```bash
-  pip install -r requirements.txt
-
-##Usage
+2. Install the required packages:
+   '''bash
+pip install -r requirements.txt
+3.Usage
 To run Fact Check Pro, use the following command:
 
-bash
-Copy code
+ '''bash
 python fact_check_pro.py --input "path/to/claims.json" --output "path/to/results.json"
 Arguments
 --input : Path to the input file containing claims.
@@ -83,3 +81,4 @@ We welcome contributions! Please fork this repository and create a pull request 
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
